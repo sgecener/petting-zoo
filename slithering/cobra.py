@@ -8,4 +8,3 @@ class Cobra:
         self.slithering = True
 
 
-carl = Cobra("CArl", "Cobra")

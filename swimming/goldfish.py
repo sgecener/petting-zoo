@@ -8,4 +8,3 @@ class Goldfish:
         self.swimming = True
 
 
-goldie = Goldfish("Goldie", "goldfish")

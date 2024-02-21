@@ -8,4 +8,3 @@ class BoaConstrictor:
         self.slithering = True
 
 
-benny = BoaConstrictor("Benny", "BOA")

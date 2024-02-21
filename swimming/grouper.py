@@ -9,4 +9,4 @@ class Grouper:
         self.date_added = date.today()
         self.slithering = True
 
-gill = Grouper("Gill", "Grouper")
+

@@ -8,4 +8,3 @@ class Anaconda:
         self.slithering = True
 
 
-ana = Anaconda("Ana", "snake")

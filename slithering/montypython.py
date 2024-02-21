@@ -7,4 +7,3 @@ class Python:
         self.date_added = date.today()
         self.slithering = True
 
-monty = Python("Monty", "the python")

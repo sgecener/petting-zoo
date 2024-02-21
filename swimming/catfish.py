@@ -9,4 +9,3 @@ class Catfish:
         self.swimming = True
 
 
-whiskers = Catfish("Whiskers", "catfish")

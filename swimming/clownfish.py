@@ -8,4 +8,3 @@ class Clownfish:
         self.date_added = date.today()
         self.swimming = True
 
-nemo = Clownfish("Nemo", "clowfish")
